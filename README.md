@@ -5,7 +5,7 @@ open-source</h2>
 ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
 <br>
 
-<p align="center">I have completed my CDAC in PG-DAC from Mumbai Education Trust (MET-IIT) (Nashik). I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
+<p align="center">I have completed my CDAC in PG-DAC from Mumbai Education Trust (MET-IIT) (Nashik) in 2023. I have completed my B.Tech in Mechanical Engineering from Galgotia's College of Engineering & Technology (Gr.Noida) in 2022. I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
 </p>
 
 <p align="center">I am passionate about Full Stack Development. I am a hard working student and a rational thinker who loves to logically deconstruct a problem to find innovative solutions. With a multi disciplinary approach in life, I always gives emphasis on being a team player and recognises how reliability can lead to success.😂. </p>

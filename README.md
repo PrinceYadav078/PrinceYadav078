@@ -5,13 +5,13 @@ open-source</h2>
 ![Visitor Count](https://profile-counter.glitch.me/{KARANKANOJIA7830}/count.svg)
 <br>
 
-<p align="center">I'm currently pursuing CDAC in PG-DAC from Mumbai Education Trust (MET-IIT) (Nashik). I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
+<p align="center">I have completed my CDAC in PG-DAC from Mumbai Education Trust (MET-IIT) (Nashik). I'm Crazy Coder & Passionate Learner. I have keen interest in coding.
 </p>
 
 <p align="center">I am passionate about Full Stack Development. I am a hard working student and a rational thinker who loves to logically deconstruct a problem to find innovative solutions. With a multi disciplinary approach in life, I always gives emphasis on being a team player and recognises how reliability can lead to success.😂. </p>
 <br>
 
-<p align="center"><a href="https://www.linkedin.com/in/prince-yadav-029b49233/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="karankanojia1110@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </a> 
+<p align="center"><a href="https://www.linkedin.com/in/prince-yadav-029b49233/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="#"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="princeyadav283203@gmail.com"><img src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> </a> 
 </p>
 
 <h2 align="center"> Tools and Technologies </h2>
